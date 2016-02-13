@@ -1,5 +1,3 @@
-﻿//Sorry again for lack of organization into classes, or any organization at all.
-
 package
 {
 	import flash.events.Event;
